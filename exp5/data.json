@@ -1,0 +1,22 @@
+{
+  "restaurants": [
+    {
+      "id": "spicyhub",
+      "name": "Spicy Hub",
+      "menu": {
+        "Biryani": 200,
+        "Paneer": 150,
+        "Roti": 20
+      }
+    },
+    {
+      "id": "italiandelight",
+      "name": "Italian Delight",
+      "menu": {
+        "Pizza": 250,
+        "Pasta": 180,
+        "Garlic Bread": 120
+      }
+    }
+  ]
+}
